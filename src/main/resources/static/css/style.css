@@ -1,0 +1,33 @@
+.main{
+	display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+div {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.links {
+	font-family: sans-serif; 
+	color: LightSeaGreen;
+	margin: 50px;
+	font-size: 50px;
+}
+
+
+
+.time {
+	color: DarkSeaGreen;
+	font-family: sans-serif;
+	font-size: 50px; 
+}
+
+.date {
+	color: DodgerBlue;
+	font-family: sans-serif;
+	font-size: 50px; 
+}
